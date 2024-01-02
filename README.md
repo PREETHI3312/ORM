@@ -24,11 +24,12 @@ Execute Django admin and create 10 Football players
 
 ## PROGRAM
 
-Include your code here
+![image](https://github.com/PREETHI3312/ORM/assets/151625222/4be58a6b-a387-4e54-b13e-b2a7f49c0195)
+
 
 ## OUTPUT
+![image](https://github.com/PREETHI3312/ORM/assets/151625222/5a735ec5-850d-4f61-aeeb-6d308cdb6390)
 
-Include the screenshot of your admin page.
 
 
 ## RESULT
